@@ -1,4 +1,4 @@
-namespace kt5work;
+namespace kt4work;
 
 public class PassengerInfo
 {
